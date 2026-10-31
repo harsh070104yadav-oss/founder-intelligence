@@ -1,0 +1,26 @@
+name: Daily Founder Intelligence Research
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # ~8:30 AM IST
+  workflow_dispatch:
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup
+        run: echo "Daily research placeholder. Full autonomous research is performed via Grok with GitHub write access. This workflow ensures the schedule and can be extended with scripts."
+
+      - name: Commit placeholder if needed
+        run: |
+          git config user.name "Founder Intelligence Bot"
+          git config user.email "bot@founder-intelligence"
+          # In production, research scripts or external triggers update files here
+          echo "Run completed $(date)" >> run-log.txt
+          git add run-log.txt
+          git commit -m "Daily run log $(date +%Y-%m-%d)" || echo "No changes"
+          git push || echo "Push skipped"
