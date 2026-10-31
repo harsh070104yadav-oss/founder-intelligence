@@ -19,11 +19,22 @@
 - Privacy-first health products
 - Unit economics of telehealth + pharmacy
 
+## Leadership & Management Thinking
+For every significant company, extract:
+- How founders and leaders think about the business and industry
+- Capital allocation and decision-making philosophy
+- Explicit views on the future of their category
+- Management systems, hiring philosophy, and organisational design
+- Stated strategy versus revealed strategy (what they actually did)
+- Historical comparison of prior guidance or vision versus outcomes
+
+Key sources: shareholder letters, earnings call commentary, investor presentations, founder interviews and talks, proxy statements.
+
 ## Failures to Study
 - Companies that scaled too fast in telehealth
 - Failed marketplaces in healthcare
 
 ## Source Process (updated)
-- Always begin with primary issued documents (filings, annual reports, official IR).
-- Supplement with transcripts and reputable analysis.
+- Always begin with primary issued documents (filings, annual reports, official IR), including management commentary.
+- Supplement with transcripts, founder interviews, and reputable analysis to understand how leaders think and see the future.
 - Use X and other public sentiment only for themes and hypotheses (clearly labelled as unverified).
