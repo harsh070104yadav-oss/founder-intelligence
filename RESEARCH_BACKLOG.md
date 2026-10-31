@@ -22,3 +22,8 @@
 ## Failures to Study
 - Companies that scaled too fast in telehealth
 - Failed marketplaces in healthcare
+
+## Source Process (updated)
+- Always begin with primary issued documents (filings, annual reports, official IR).
+- Supplement with transcripts and reputable analysis.
+- Use X and other public sentiment only for themes and hypotheses (clearly labelled as unverified).
