@@ -1,1 +1,77 @@
-PLACEHOLDER
+# Cumulative Learnings — Founder Intelligence
+
+**This is the single file you need.**  
+All accumulated research, patterns, company insights, leadership thinking, distribution lessons, financial context, and implications are synthesized here. Supporting files (`daily/`, `companies/`, etc.) collect raw research; this document is the living synthesis.
+
+Last updated: 2026-11-02
+
+---
+
+## Core Patterns Observed
+
+### 1. Distribution and Trust Often Matter More Than the Product
+In sensitive health categories, the system that reaches and retains trust is frequently more valuable than the treatment itself.
+
+- **Doctor/specialist networks** (Progyny) and **owned physical infrastructure** (Apollo hospitals + pharmacies) create defensible reach and credibility.
+- Pure digital DTC can scale fast but faces higher CAC, retention pressure, and margin volatility (Hims). Leaders themselves note that trust must be earned over years, not bought.
+
+### 2. Outcomes and Care Design Create Moats
+- Progyny publishes clinical outcomes validated by third-party studies.
+- Hims claims personalization improves adherence. Closed-loop data is positioned as long-term advantage. AI described as load-bearing infrastructure.
+- Apollo tracks clinical quality indicators at scale.
+- Lesson: Moving beyond pure access to measurable care quality or engagement is stronger.
+
+### 3. Business Model Structure Shapes Incentives and Durability
+Employer benefits, DTC subscription + fulfillment, and integrated hospital + pharmacy + digital each have distinct strengths and risks.
+
+### 4. Leadership Thinking vs Revealed Strategy
+- **Hims**: Proactive, preventative, always-on global care. AI load-bearing. Closed-loop data. Trust earned. Accept near-term volatility. 2030 targets clear. Revealed: aggressive expansion with margin pressure.
+- **Progyny**: Clear large underserved problem. Outcomes as differentiator. Careful expansion.
+- **Apollo**: Physical trust first; digital amplifies. Demerger for capital allocation.
+- Pattern: Articulate North Star and allocate consistently; distinguish stated from revealed.
+
+### 5. Margin and Mix Reality
+High early margins compress with branded products and international mix. Outcomes B2B and owned physical can sustain differently.
+
+### 6. Failures and Structural Weaknesses
+Pure telehealth struggled post-COVID without strong engagement/outcomes. Privacy risks for consumer platforms.
+
+---
+
+## Company Insights (Self-Contained)
+
+### Hims & Hers (HIMS)
+**Model**: Consumer-first telehealth + pharmacy. Subscription. AI-native and closed-loop as claimed moats.
+
+**Financial context** (Q2 2026): Revenue $753.2M (+38%). ~3M subscribers. 2026 guidance $3.1–3.3B. Margin pressure from mix. 2030: ≥$6.5B / ≥$1.3B adj. EBITDA.
+
+**Leadership thinking** (Q2 call): AI load-bearing not decorative. Trust earned over 9 years. Closed-loop creates compounding improvement. Accept volatility for platform.
+
+**Key takeaway**: Fast scale possible; mix shifts cost margins. Trust language reinforces clinical relationship advantages.
+
+### Progyny (PGNY)
+Employer fertility benefits. Outcomes publication + Care Advocates. High retention. Guidance cut on seasonal utilization. Q3 pending.
+
+### Apollo Hospitals
+Integrated hospitals + pharmacy + digital. Physical trust + digital amplification. Demerger of pharmacy/digital.
+
+---
+
+## Distribution Lessons
+Doctor-led, employer, owned physical + digital, and pure DTC each have distinct dynamics. Trust must be earned in sensitive categories.
+
+## Leadership and Decision-Making Patterns
+Clear problem, long-term vision through volatility, outcomes focus, verticalization when needed, distinguish stated vs revealed.
+
+## Implications Relevant to Intima
+Doctor- and clinic-distributed models structurally advantaged. Privacy-first as potential differentiator. Reinforced by Hims trust language and Apollo physical model.
+
+## Open Questions
+Doctor-referred vs DTC retention gap? AI load-bearing for outcomes vs support cost? When verticalization necessary?
+
+## Source Discipline
+Primary issued documents establish facts. Leadership statements evidence thinking. Sentiment Tier 4 only.
+
+---
+
+*This is the single reference file. All future research is synthesized here.*
