@@ -2,9 +2,9 @@
 
 ## Priority Companies
 - Hims & Hers (HIMS) — consumer health platform, subscription, international expansion
-- Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based
+- Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 results 4 Nov)
 - Apollo Hospitals — integrated hospital + pharmacy + digital in India
-- Teladoc
+- Teladoc — pure virtual care post-COVID normalisation and BetterHelp pivot (Q3 2026 deepened)
 - GoodRx
 - Organon
 - Bootstrapped or failed consumer health companies
@@ -31,7 +31,7 @@ For every significant company, extract:
 Key sources: shareholder letters, earnings call commentary, investor presentations, founder interviews and talks, proxy statements.
 
 ## Failures to Study
-- Companies that scaled too fast in telehealth
+- Companies that scaled too fast in telehealth (Teladoc as ongoing case)
 - Failed marketplaces in healthcare
 
 ## Source Process (updated)
