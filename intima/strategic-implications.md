@@ -1,6 +1,6 @@
 # Strategic Implications for Intima
 
-## From research cycles (updated 2026-11-04)
+## From research cycles (updated 2026-11-05)
 
 Doctor-led and clinic-distributed models appear structurally advantaged in trust-sensitive health categories relative to pure DTC consumer platforms.
 
@@ -9,6 +9,8 @@ Intima's approach of working through gynaecologists, urologists, sexologists and
 Apollo analysis reinforces that owned or tightly integrated clinical trust layers, amplified by digital engagement tools, create durability. Pure digital access faces higher friction in trust-sensitive categories.
 
 GoodRx analysis (Form 8-K 2 Nov 2026 restatement on Pharma Direct + expected ICFR weaknesses, plus ongoing privacy litigation context) further illustrates the control, recognition, and data-use risks of pure consumer-intermediation platforms even when directional strategy (mix-shift to more durable channels) is sound.
+
+Progyny Q3 2026 results (record 1.3 million new covered lives, near-100% retention, leadership framing around cost-trend control) further demonstrate the durability of embedding inside trusted employer or specialist channels that can prove measurable value.
 
 Key questions for validation:
 - Retention of doctor-referred users (D30 and beyond)

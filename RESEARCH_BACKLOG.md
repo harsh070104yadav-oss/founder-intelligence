@@ -1,8 +1,8 @@
 # Research Backlog
 
 ## Priority Companies
-- Hims & Hers (HIMS) — consumer health platform, subscription, international expansion
-- Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 results 4 Nov)
+- Hims & Hers (HIMS) — consumer health platform, subscription, international expansion (Q3 results 9 Nov)
+- Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 2026 analysed 5 Nov)
 - Apollo Hospitals — integrated hospital + pharmacy + digital in India
 - Teladoc — pure virtual care post-COVID normalisation and BetterHelp pivot (Q3 2026 deepened)
 - GoodRx
