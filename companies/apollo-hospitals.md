@@ -1,23 +1,23 @@
 # Apollo Hospitals Enterprise
 
-Integrated healthcare group: hospitals (core high-margin clinical business), omnichannel pharmacy distribution, clinics/diagnostics, and digital platform (Apollo 24|7). Founded 1983 by Dr. Prathap C. Reddy. Family-led.
+Integrated healthcare group: hospitals (core high-margin clinical business), omnichannel pharmacy distribution (Apollo HealthCo), clinics/diagnostics, and digital platform (Apollo 24|7). Founded 1983 by Dr. Prathap C. Reddy. Family-led. Ongoing demerger of HealthCo targeted for listing ~FY27.
 
-## Key Leadership Thinking (from FY2025-26 Annual Report and related)
+## Key Leadership Thinking
 
-- Founder-Chairman Dr. Prathap C. Reddy: Transformative period in healthcare. “Always available” institution. Emphasis on rural reach via telemedicine, primary/preventive care, and bringing care to the smallest villages. Vision of Health and Happiness@Home.
-- Digital as connective layer across existing physical footprint, not a pure replacement.
-- Clinical quality measurement (ACE 3.0) and operational efficiency (ALOS reduction) remain priorities alongside scale.
-- Structural action: demerger of pharmacy + digital into separately listable entity to unlock value and sharpen focus while retaining integration and minority stake.
+- Founder-Chairman Dr. Prathap C. Reddy: Transformative period in healthcare. Emphasis on caring beyond curing, specialised capacity, clinical teams, and Health and Happiness@Home. Digital as connective layer across physical footprint.
+- MD Suneeta Reddy (Q2 FY27 commentary): Established hospitals sustain ~26% EBITDA margins; new beds (520 commissioned) create temporary dilution (~24% overall) but expected to break even within ~1 year. Capital allocation prioritises execution, operating performance, and discipline. On regulatory price caps: healthcare is a service-delivery model, not cost-plus; continues government engagement while protecting growth and margins. Demerger framed as pure business decision for distinct economics and shareholder value.
+- Clinical quality and operational efficiency remain priorities alongside scale.
 
-## Latest Financial Context (FY2025-26 Annual Report, year ended 31 March 2026)
+## Latest Financial Context (Q2 FY27, quarter ended 30 September 2026)
 
-- Consolidated revenue: ₹252,285 million (~₹25,229 crore, +16% YoY).
-- EBITDA: ₹37,693 million.
-- PAT (owners): ₹19,417 million (+34% YoY).
-- Healthcare Services ~₹12,555 crore; Apollo HealthCo ~₹10,808 crore.
-- Apollo 24|7: 47 million+ registered users.
-- Pharmacy network 7,000+ stores.
+- Consolidated revenue: ₹7,615 crore (+23% YoY). EBITDA ~₹1,191 crore (+~29%). PAT ₹630–660 crore (+~32–34%).
+- Healthcare services: ₹3,900 crore (+23%), occupancy 73% (from 69%), IP volumes +14%, ARPP ₹1,86,880 (+8%). High-complexity specialties driving growth (Oncology +28% etc.). International patients +37%.
+- Apollo HealthCo: ₹3,286 crore (+23%), EBITDA ₹193 crore. Pharmacy network 7,662 stores.
+- H1 FY27: revenue ₹14,547 crore (+22%), PAT ₹1,211 crore (+33%).
+- Expansion: ~5,800 beds over five years; ~₹7,100 crore remaining capex (internal accruals).
 
-See daily/2026-11-01.md for full analysis.
+Prior full-year context (FY2025-26): consolidated revenue ~₹25,229 crore (+16%).
 
-Primary sources: FY2025-26 Annual Report (NSE/BSE), company IR materials.
+Primary sources: Company IR results for quarter ended 30.09.2026, reputable reporting of management commentary, prior annual report.
+
+See daily/2026-11-06.md for full analysis.
