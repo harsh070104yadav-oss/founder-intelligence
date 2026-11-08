@@ -8,6 +8,7 @@
 - GoodRx
 - Organon
 - Bootstrapped or failed consumer health companies
+- Hinge Health (HNGE) — digital MSK automation platform, employer/plan distribution (Q3 2026 analysed 8 Nov)
 
 ## Industries
 - Femtech and reproductive health
@@ -18,6 +19,7 @@
 - Doctor-led distribution vs direct-to-consumer
 - Privacy-first health products
 - Unit economics of telehealth + pharmacy
+- Automation of care delivery vs pure access models
 
 ## Leadership & Management Thinking
 For every significant company, extract:
