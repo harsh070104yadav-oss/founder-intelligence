@@ -13,13 +13,15 @@ Consumer-first health and wellness platform combining telehealth and pharmacy fu
 - 2030 targets: ≥$6.5B revenue, ≥$1.3B adjusted EBITDA.
 - Recent pragmatic adaptation: seamless branded GLP-1 access (Novo, Lilly) with non-compounding commitments for those products, while expanding proprietary specialties (e.g., peptides).
 
-## Latest Financial Context (through Q2 2026)
+## Latest Financial Context (through Q2 2026; Q3 pending)
 
 - FY2025: ~$2.35B revenue (+59%), >2.5M subscribers, ~$318M Adjusted EBITDA.
 - Q2 2026: $753.2M revenue (+38% YoY), nearly 3M subscribers. 2026 guidance $3.1–3.3B.
 - International expected ≥$600M in 2026, near breakeven while scaling.
 - Gross margin pressure from branded/weight-loss mix and international.
+- 6 Nov 2026: Official joint announcement with Eli Lilly for seamless self-pay access to Zepbound and Foundayo on platform (non-compounding commitment).
+- Q3 2026 results scheduled after close 9 November (guidance $880–900M revenue).
 
-See daily/2026-11-07.md for deepened analysis of leadership thinking and the Lilly distribution agreement. Q3 2026 results scheduled 9 November.
+See daily/2026-11-09.md for deepened analysis of the Lilly partnership and leadership thinking ahead of Q3. Prior analysis in daily/2026-11-07.md.
 
 Primary sources: Company IR, shareholder letters, earnings call transcripts and releases, 10-K/10-Q, official newsroom announcements.
