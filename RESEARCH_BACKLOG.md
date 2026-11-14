@@ -3,9 +3,9 @@
 ## Priority Companies
 - Hims & Hers (HIMS) — consumer health platform, subscription, international expansion (Lilly partnership analysed 9 Nov; Q3 results after close 9 Nov)
 - Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 2026 analysed 5 Nov)
-- Apollo Hospitals — integrated hospital + pharmacy + digital in India
+- Apollo Hospitals — integrated hospital + pharmacy + digital in India (Q2 FY27 deepened 14 Nov: capacity economics, demerger, leadership capital allocation)
 - Teladoc — pure virtual care post-COVID normalisation and BetterHelp pivot (Q3 2026 deepened)
-- GoodRx
+- GoodRx (Q3 10-Q delayed under NT 10-Q extension as of 14 Nov)
 - Organon
 - Bootstrapped or failed consumer health companies
 - Hinge Health (HNGE) — digital MSK automation platform, employer/plan distribution (Q3 2026 analysed 8 Nov)
