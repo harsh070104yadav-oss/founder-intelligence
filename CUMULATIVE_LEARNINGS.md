@@ -3,7 +3,7 @@
 **This is the single file you need.**  
 All accumulated research, patterns, company insights, leadership thinking, distribution lessons, financial context, and implications are synthesized here. Supporting files (`daily/`, `companies/`, etc.) collect raw research; this document is the living synthesis.
 
-Last updated: 2026-11-14
+Last updated: 2026-11-16
 
 ---
 
