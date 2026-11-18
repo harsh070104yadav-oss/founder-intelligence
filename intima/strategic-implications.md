@@ -1,6 +1,6 @@
 # Strategic Implications for Intima
 
-## From research cycles (updated 2026-11-05)
+## From research cycles (updated 2026-11-18)
 
 Doctor-led and clinic-distributed models appear structurally advantaged in trust-sensitive health categories relative to pure DTC consumer platforms.
 
@@ -11,6 +11,8 @@ Apollo analysis reinforces that owned or tightly integrated clinical trust layer
 GoodRx analysis (Form 8-K 2 Nov 2026 restatement on Pharma Direct + expected ICFR weaknesses, plus ongoing privacy litigation context) further illustrates the control, recognition, and data-use risks of pure consumer-intermediation platforms even when directional strategy (mix-shift to more durable channels) is sound.
 
 Progyny Q3 2026 results (record 1.3 million new covered lives, near-100% retention, leadership framing around cost-trend control) further demonstrate the durability of embedding inside trusted employer or specialist channels that can prove measurable value.
+
+Teladoc Q3 2026 BetterHelp analysis (insurance ramp to ~$140M annualised / 36% new U.S. users, accepting cash-pay pressure and advertising pullback) illustrates the challenges of pure consumer cash-pay models post-peak and the mechanics of pivoting toward reimbursement/embedding for durability. Reinforces advantages of specialist/clinic-referral distribution that starts with existing trust rather than pure acquisition or later insurance shifts.
 
 Key questions for validation:
 - Retention of doctor-referred users (D30 and beyond)
