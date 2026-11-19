@@ -1,6 +1,6 @@
 # Strategic Implications for Intima
 
-## From research cycles (updated 2026-11-18)
+## From research cycles (updated 2026-11-19)
 
 Doctor-led and clinic-distributed models appear structurally advantaged in trust-sensitive health categories relative to pure DTC consumer platforms.
 
@@ -14,10 +14,13 @@ Progyny Q3 2026 results (record 1.3 million new covered lives, near-100% retenti
 
 Teladoc Q3 2026 BetterHelp analysis (insurance ramp to ~$140M annualised / 36% new U.S. users, accepting cash-pay pressure and advertising pullback) illustrates the challenges of pure consumer cash-pay models post-peak and the mechanics of pivoting toward reimbursement/embedding for durability. Reinforces advantages of specialist/clinic-referral distribution that starts with existing trust rather than pure acquisition or later insurance shifts.
 
+Organon Q3 2026 analysis (revenue $1.574B, solid cash generation amid modest top-line pressure, pending Sun Pharma acquisition) and Interim CEO framing of women’s health as strategic access and continuum lever further illustrate the durability of clinician-embedded Rx models in reproductive categories relative to pure consumer platforms, while highlighting product concentration, leverage, and consolidation dynamics that can lead to strategic exit. Continuity of clinical relationships and access programs under new ownership remains relevant.
+
 Key questions for validation:
 - Retention of doctor-referred users (D30 and beyond)
 - Willingness of doctors to recommend without financial incentives
 - Product features that fit into existing clinical workflows
 - Measurable engagement or outcome signals that clinicians value for their own patients
+- Continuity of access and clinical relationships during industry consolidation
 
 Updates will be added as research continues.
