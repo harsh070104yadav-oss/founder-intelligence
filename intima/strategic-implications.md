@@ -1,6 +1,6 @@
 # Strategic Implications for Intima
 
-## From research cycles (updated 2026-11-21)
+## From research cycles (updated 2026-11-22)
 
 Doctor-led and clinic-distributed models appear structurally advantaged in trust-sensitive health categories relative to pure DTC consumer platforms.
 
@@ -17,6 +17,8 @@ Teladoc Q3 2026 BetterHelp analysis (insurance ramp to ~$140M annualised / 36% n
 Organon Q3 2026 analysis (revenue $1.574B, solid cash generation amid modest top-line pressure, pending Sun Pharma acquisition) and Interim CEO framing of women’s health as strategic access and continuum lever further illustrate the durability of clinician-embedded Rx models in reproductive categories relative to pure consumer platforms, while highlighting product concentration, leverage, and consolidation dynamics that can lead to strategic exit. Continuity of clinical relationships and access programs under new ownership remains relevant.
 
 Hinge Health Q3 2026 analysis (revenue $235M +52%, non-GAAP operating margin 33%, FCF 48% margin, guidance raised) and CEO framing of technology automation of care delivery itself (triple aim at scale via employer/plan channels) further illustrate how automation can amplify trusted channel relationships with measurable outcomes and cost signals, rather than pure consumer acquisition. Platform expansion via existing relationships is more efficient than pure category builds.
+
+Hims & Hers Q3 2026 analysis (revenue $890.4M +49%, sequential subscriber decline, deliberate pacing, Lilly/Novo assortment, AI for adherence) and CEO framing of customer relationship ownership as the core value driver further illustrate the growth potential and volatility of pure consumer platforms. Near-term trades of subscriber growth for long-term positioning, margin pressure, and external trust/regulatory frictions contrast with the durability of specialist-embedded models. Reinforces advantages for clinic/specialist distribution that starts with existing clinical trust rather than pure acquisition.
 
 Key questions for validation:
 - Retention of doctor-referred users (D30 and beyond)
