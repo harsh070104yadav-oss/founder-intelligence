@@ -1,11 +1,11 @@
 # Research Backlog
 
 ## Priority Companies
-- Hims & Hers (HIMS) — consumer health platform, subscription, international expansion (Lilly partnership analysed 9 Nov; Q3 results after close 9 Nov)
+- Hims & Hers (HIMS) — consumer health platform, subscription, international expansion (Lilly partnership analysed 9 Nov; Q3 results after close 9 Nov; leadership on customer relationship deepened 22 Nov)
 - Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 2026 analysed 5 Nov; leadership and model deepened 17 Nov)
 - Apollo Hospitals — integrated hospital + pharmacy + digital in India (Q2 FY27 deepened 14 Nov: capacity economics, demerger, leadership capital allocation)
 - Teladoc — pure virtual care post-COVID normalisation and BetterHelp pivot (Q3 2026 deepened 18 Nov: insurance ramp, leadership execution focus, stated vs revealed)
-- GoodRx (Q3 10-Q delayed under NT 10-Q extension as of 14 Nov; results expected after US close 17 Nov — still pending as of 19 Nov)
+- GoodRx (Q3 10-Q delayed under NT 10-Q; extension passed without filing as of 23 Nov 2026; Pharma Direct restatement, ASC 606 controls, and model transition deepened 23 Nov)
 - Organon (Q3 2026 deepened 19 Nov: women’s health leadership as access/continuum lever, Sun Pharma acquisition dynamics, revealed strategic exit)
 - Bootstrapped or failed consumer health companies
 - Hinge Health (HNGE) — digital MSK automation platform, employer/plan distribution (Q3 2026 analysed 8 Nov)
