@@ -9,6 +9,7 @@
 - Organon (Q3 2026 deepened 19 Nov: women’s health leadership as access/continuum lever, Sun Pharma acquisition dynamics, revealed strategic exit)
 - Bootstrapped or failed consumer health companies
 - Hinge Health (HNGE) — digital MSK automation platform, employer/plan distribution (Q3 2026 analysed 8 Nov)
+- INVO Fertility (IVF) — micro-cap fertility clinic operator and INVOcell device; clinic-level economics, acquisition strategy, capital constraints and going concern (Q3 2026 deepened 24 Nov)
 
 ## Industries
 - Femtech and reproductive health
