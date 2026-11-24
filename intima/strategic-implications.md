@@ -1,6 +1,6 @@
 # Strategic Implications for Intima
 
-## From research cycles (updated 2026-11-22)
+## From research cycles (updated 2026-11-24)
 
 Doctor-led and clinic-distributed models appear structurally advantaged in trust-sensitive health categories relative to pure DTC consumer platforms.
 
@@ -20,11 +20,14 @@ Hinge Health Q3 2026 analysis (revenue $235M +52%, non-GAAP operating margin 33%
 
 Hims & Hers Q3 2026 analysis (revenue $890.4M +49%, sequential subscriber decline, deliberate pacing, Lilly/Novo assortment, AI for adherence) and CEO framing of customer relationship ownership as the core value driver further illustrate the growth potential and volatility of pure consumer platforms. Near-term trades of subscriber growth for long-term positioning, margin pressure, and external trust/regulatory frictions contrast with the durability of specialist-embedded models. Reinforces advantages for clinic/specialist distribution that starts with existing clinical trust rather than pure acquisition.
 
+INVO Fertility Q3 2026 analysis (clinic revenue +28%, clinic-level Adjusted EBITDA positive for seventh consecutive quarter, overall continuing losses, cash $3.7M, explicit going-concern warning) and CEO framing of acquiring established practices while preserving local relationships further illustrate the unit-economics potential of clinic networks in reproductive health alongside the capital intensity and scale requirements for overhead absorption. Under-capitalised pure clinic operators face financing and dilution risk even with positive practice-level economics. Reinforces advantages of specialist/clinic-embedded models that start with existing clinical trust, while highlighting the need for adequate capital or partnership scale.
+
 Key questions for validation:
 - Retention of doctor-referred users (D30 and beyond)
 - Willingness of doctors to recommend without financial incentives
 - Product features that fit into existing clinical workflows
 - Measurable engagement or outcome signals that clinicians value for their own patients
 - Continuity of access and clinical relationships during industry consolidation or divestiture
+- Capital and scale requirements for clinic-network durability versus pure specialist-referral amplification
 
 Updates will be added as research continues.
