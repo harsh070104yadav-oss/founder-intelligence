@@ -1,6 +1,6 @@
 # Strategic Implications for Intima
 
-## From research cycles (updated 2026-11-24)
+## From research cycles (updated 2026-11-25)
 
 Doctor-led and clinic-distributed models appear structurally advantaged in trust-sensitive health categories relative to pure DTC consumer platforms.
 
@@ -8,7 +8,7 @@ Intima's approach of working through gynaecologists, urologists, sexologists and
 
 Apollo analysis reinforces that owned or tightly integrated clinical trust layers, amplified by digital engagement tools, create durability. Pure digital access faces higher friction in trust-sensitive categories. Fertility-related stake transfer to specialised operator (Kids Clinic India / Cloudnine) illustrates non-core unlock while retaining strategic interest.
 
-GoodRx analysis (Form 8-K 2 Nov 2026 restatement on Pharma Direct + expected ICFR weaknesses, plus ongoing privacy litigation context) further illustrates the control, recognition, and data-use risks of pure consumer-intermediation platforms even when directional strategy (mix-shift to more durable channels) is sound.
+GoodRx analysis (Form 10-Q filed 24 Nov 2026 with restatements of Q1/Q2 on Pharma Direct ASC 606 understatement due to control overrides by former senior finance, material weaknesses, mix shift to >50% from Pharma Direct + subscriptions, raised guidance, strong cash, expected 2027 regression on unit economics) further illustrates the control, recognition, and data-use risks of pure consumer-intermediation platforms even when directional strategy (mix-shift to more durable channels) is sound and progress is revealed in the numbers. Remediation is underway; credibility depends on it.
 
 Progyny Q3 2026 results (record 1.3 million new covered lives, near-100% retention, leadership framing around cost-trend control) further demonstrate the durability of embedding inside trusted employer or specialist channels that can prove measurable value. Deepened 21 Nov on Anevski’s mission focus on published outcomes and client reporting as the mechanism to bend the cost curve; revealed via retention and guidance raises. Reinforces advantages for specialist-embedded models in reproductive health.
 
@@ -29,5 +29,6 @@ Key questions for validation:
 - Measurable engagement or outcome signals that clinicians value for their own patients
 - Continuity of access and clinical relationships during industry consolidation or divestiture
 - Capital and scale requirements for clinic-network durability versus pure specialist-referral amplification
+- Remediation speed and credibility recovery after control failures on growth engines in pure intermediation models
 
 Updates will be added as research continues.

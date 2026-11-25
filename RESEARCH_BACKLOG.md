@@ -5,7 +5,7 @@
 - Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 2026 analysed 5 Nov; leadership and model deepened 17 Nov)
 - Apollo Hospitals — integrated hospital + pharmacy + digital in India (Q2 FY27 deepened 14 Nov: capacity economics, demerger, leadership capital allocation)
 - Teladoc — pure virtual care post-COVID normalisation and BetterHelp pivot (Q3 2026 deepened 18 Nov: insurance ramp, leadership execution focus, stated vs revealed)
-- GoodRx (Q3 10-Q delayed under NT 10-Q; extension passed without filing as of 23 Nov 2026; Pharma Direct restatement, ASC 606 controls, and model transition deepened 23 Nov)
+- GoodRx (Q3 10-Q filed 24 Nov 2026 with restatements of Q1/Q2 on Pharma Direct ASC 606; material weaknesses, mix-shift progress, raised guidance; leadership on durability deepened 25 Nov)
 - Organon (Q3 2026 deepened 19 Nov: women’s health leadership as access/continuum lever, Sun Pharma acquisition dynamics, revealed strategic exit)
 - Bootstrapped or failed consumer health companies
 - Hinge Health (HNGE) — digital MSK automation platform, employer/plan distribution (Q3 2026 analysed 8 Nov)
