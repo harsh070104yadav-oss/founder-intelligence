@@ -3,13 +3,13 @@
 ## Priority Companies
 - Hims & Hers (HIMS) — consumer health platform, subscription, international expansion (Lilly partnership analysed 9 Nov; Q3 results after close 9 Nov; leadership on customer relationship deepened 22 Nov)
 - Progyny (PGNY) — fertility benefits, employer distribution, outcomes-based (Q3 2026 analysed 5 Nov; leadership and model deepened 17 Nov)
-- Apollo Hospitals — integrated hospital + pharmacy + digital in India (Q2 FY27 deepened 14 Nov: capacity economics, demerger, leadership capital allocation)
+- Apollo Hospitals — integrated hospital + pharmacy + digital in India (Q2 FY27 deepened 14 Nov: capacity economics, demerger, leadership capital allocation; Cloudnine fertility/maternity combination closed early Nov 2026, analysed 26 Nov)
 - Teladoc — pure virtual care post-COVID normalisation and BetterHelp pivot (Q3 2026 deepened 18 Nov: insurance ramp, leadership execution focus, stated vs revealed)
-- GoodRx (Q3 10-Q filed 24 Nov 2026 with restatements of Q1/Q2 on Pharma Direct ASC 606; material weaknesses, mix-shift progress, raised guidance; leadership on durability deepened 25 Nov)
+- GoodRx (Q3 10-Q filed 24 Nov 2026 with restatements of Q1/Q2 on Pharma Direct ASC 606; material weaknesses, mix-shift progress, raised guidance; leadership on durability deepened 25 Nov; Nasdaq non-compliance notice addressed by filing)
 - Organon (Q3 2026 deepened 19 Nov: women’s health leadership as access/continuum lever, Sun Pharma acquisition dynamics, revealed strategic exit)
 - Bootstrapped or failed consumer health companies
 - Hinge Health (HNGE) — digital MSK automation platform, employer/plan distribution (Q3 2026 analysed 8 Nov)
-- INVO Fertility (IVF) — micro-cap fertility clinic operator and INVOcell device; clinic-level economics, acquisition strategy, capital constraints and going concern (Q3 2026 deepened 24 Nov)
+- INVO Fertility (IVF) — micro-cap fertility clinic operator and INVOcell device; clinic-level economics, acquisition strategy, capital constraints and going concern (Q3 2026 deepened 24 Nov; GrowthOS AI patient engagement partnership for clinic network conversion/efficiency deepened 28 Nov)
 
 ## Industries
 - Femtech and reproductive health
@@ -21,6 +21,7 @@
 - Privacy-first health products
 - Unit economics of telehealth + pharmacy
 - Automation of care delivery vs pure access models
+- Shared technology layers on specialized clinic networks
 
 ## Leadership & Management Thinking
 For every significant company, extract:
