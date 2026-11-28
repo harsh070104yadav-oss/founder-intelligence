@@ -10,17 +10,21 @@ Public micro-cap fertility clinic operator and developer of the INVOcell device 
 - Capital allocation: disciplined acquisitions + public-market financing (warrants, equity lines); invest in people and infrastructure ahead of scale so corporate overhead is absorbed.
 - Realignment of finance and business-development roles to focus execution on acquisitions and clinic operations.
 - Prior shareholder letter (Feb 2026) emphasised strongest fundamental position via clinic platform and positive operational cash flow at practices.
+- Nov 2026 (GrowthOS partnership): Building a premier clinic network means giving physicians exceptional support. Significant opportunity to put advanced AI to work in practical ways patients and providers feel daily — faster responses, easier scheduling, more consistent follow-up. Investing in infrastructure to serve more patients while preserving the personal attention that defines practices. Access starts with the first conversation; technology helps convert inquiries and improve efficiencies without displacing licensed clinical decisions.
 
-## Latest Financial Context (updated 2026-11-24)
+## Latest Financial Context (updated 2026-11-28)
 
 - Q3 2026: revenue $2.22M (+26% YoY); clinic revenue $2.21M (+28%). Nine-month revenue $6.41M (+22%).
 - Clinic-Level Adjusted EBITDA positive for seventh consecutive quarter; consolidated Adjusted EBITDA ~$(1.0)M; continuing-operations losses narrowed but persist.
 - Cash $3.7M (30 Sep 2026). Nine-month operating cash use $4.73M. Financing via ~$7.1M warrant exercises + equity purchase agreement proceeds.
 - Explicit going-concern warning: substantial doubt about ability to continue as going concern for at least one year; additional funding required until positive cash from operations.
 - Reverse stock split (1-for-4) effective 30 Oct 2026. Recent acquisitions: Indiana Family Beginnings ($760k purchase price), Birmingham.
+- Nov 23 2026: Selected GrowthOS (Cima Growth Solutions) AI-powered HIPAA-compliant patient engagement platform for deployment across four-clinic network to connect inquiries, follow-up, scheduling and reporting; improve conversion from first inquiry to consultation/treatment and operating efficiencies while preserving physician-led care.
 
-Primary sources: Form 10-Q (period ended 30 September 2026), 8-K earnings release (16 November 2026) with management commentary, prior shareholder letter.
+Primary sources: Form 10-Q (period ended 30 September 2026), 8-K earnings release (16 November 2026) with management commentary, official press release (23 November 2026) on GrowthOS partnership, prior shareholder letter.
 
 ## Key Takeaway
 
-Clinic networks can demonstrate positive unit economics at the practice level while corporate overhead, public-company costs, and investment ahead of scale produce overall losses and capital constraints. Acquisition of established practices preserves local clinical trust. Device-enabled access is secondary to clinic operations in current economics. Reinforces advantages of specialist/clinic-embedded models in reproductive health, while highlighting capital intensity and scale requirements for durability. Independent self-sufficiency remains unproven.
+Clinic networks can demonstrate positive unit economics at the practice level while corporate overhead, public-company costs, and investment ahead of scale produce overall losses and capital constraints. Acquisition of established practices preserves local clinical trust. Shared AI engagement layers can address front-end leakage and improve operating repeatability without replacing clinical judgment. Device-enabled access is secondary to clinic operations in current economics. Reinforces advantages of specialist/clinic-embedded models in reproductive health, while highlighting capital intensity and scale requirements for durability. Independent self-sufficiency remains unproven.
+
+See daily/2026-11-28.md for full analysis of the GrowthOS partnership.
